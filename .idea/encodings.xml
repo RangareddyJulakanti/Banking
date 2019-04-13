@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/book" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6.book" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6.checkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6.fares" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6.search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6.website" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/checkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fares" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/website" charset="UTF-8" />
+  </component>
+</project>
